@@ -1,0 +1,14 @@
+E:\School work1\thinojosa_inclass02\thinojosa_inclass02\thinojosa_inclass02\bin\Debug\thinojosa_inclass02.exe.config
+E:\School work1\thinojosa_inclass02\thinojosa_inclass02\thinojosa_inclass02\bin\Debug\thinojosa_inclass02.exe
+E:\School work1\thinojosa_inclass02\thinojosa_inclass02\thinojosa_inclass02\bin\Debug\thinojosa_inclass02.pdb
+E:\School work1\thinojosa_inclass02\thinojosa_inclass02\thinojosa_inclass02\obj\Debug\thinojosa_inclass02.csprojAssemblyReference.cache
+E:\School work1\thinojosa_inclass02\thinojosa_inclass02\thinojosa_inclass02\obj\Debug\thinojosa_inclass02.csproj.CoreCompileInputs.cache
+E:\School work1\thinojosa_inclass02\thinojosa_inclass02\thinojosa_inclass02\obj\Debug\thinojosa_inclass02.exe
+E:\School work1\thinojosa_inclass02\thinojosa_inclass02\thinojosa_inclass02\obj\Debug\thinojosa_inclass02.pdb
+E:\C#\thinojosa_inclass02\thinojosa_inclass02\thinojosa_inclass02\bin\Debug\thinojosa_inclass02.exe.config
+E:\C#\thinojosa_inclass02\thinojosa_inclass02\thinojosa_inclass02\bin\Debug\thinojosa_inclass02.exe
+E:\C#\thinojosa_inclass02\thinojosa_inclass02\thinojosa_inclass02\bin\Debug\thinojosa_inclass02.pdb
+E:\C#\thinojosa_inclass02\thinojosa_inclass02\thinojosa_inclass02\obj\Debug\thinojosa_inclass02.csprojAssemblyReference.cache
+E:\C#\thinojosa_inclass02\thinojosa_inclass02\thinojosa_inclass02\obj\Debug\thinojosa_inclass02.csproj.CoreCompileInputs.cache
+E:\C#\thinojosa_inclass02\thinojosa_inclass02\thinojosa_inclass02\obj\Debug\thinojosa_inclass02.exe
+E:\C#\thinojosa_inclass02\thinojosa_inclass02\thinojosa_inclass02\obj\Debug\thinojosa_inclass02.pdb
